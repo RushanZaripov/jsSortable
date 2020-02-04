@@ -3,8 +3,8 @@
 
 __Пример вызова__
 ```php
-  mySortable = new SortableGrid();
-  mySortable.init(document.getElementById('grid-table'));
+ mySortable = new SortableGrid();
+ mySortable.init(document.getElementById('grid-table'));
 ```
 
 
